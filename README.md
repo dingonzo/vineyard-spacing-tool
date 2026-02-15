@@ -1,4 +1,5 @@
 # agricultural-logic-java
+[![Gradle Package](https://github.com/dingonzo/vineyard-spacing-tool/actions/workflows/gradle.yml/badge.svg)](https://github.com/dingonzo/vineyard-spacing-tool/actions/workflows/gradle.yml)
 
 # Vineyard Spacing Calculator
 A Java-based utility designed to calculate the maximum number of grapevines that can 
